@@ -42,6 +42,7 @@
 - [Построение трехмерных графиков и анимации](./lessons/sem02/lesson08/);
 - [Введение в Pandas](./lessons/sem02/lesson09/);
 - [Операции над объектами Pandas](./lessons/sem02/lesson10/);
+- [Сложные операции над объектами Pandas](./lessons/sem02/lesson11/);
 
 ## Практические задания:
 
